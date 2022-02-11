@@ -11,6 +11,7 @@ h2,
 h3 {
   text-align: center;
   margin: 0;
+  font-family: var(--primary-font);
 }
 
 h1 {
@@ -32,7 +33,7 @@ p {
   margin: 0 auto;
   font-family: var(--secondary-font);
   font-size: 28px;
-  color: var(--primary-color);
+  color: #a0a0a0;
 }
 
 .navigation-links {
